@@ -31,7 +31,7 @@ http://localhost:9999/Graphql?query={vehicles(id:14){Name,Model,Manufacturer,}}
 http://localhost:9999/Graphql?query={planets(id:1){Name,RotationPeriod,OrbitalPeriod,}}
 ```
 
-![](/home/wjh/Desktop/Server-Computing-Swapi-master/image/2.png)
+![](./image/2.png)
 
 ## 其他URL实例
 
